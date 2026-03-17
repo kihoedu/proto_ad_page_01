@@ -50,7 +50,7 @@ const CTASection = () => {
 
             <div className="overflow-hidden rounded-xl border border-input bg-background">
               <iframe
-                src={https://docs.google.com/forms/d/e/1FAIpQLSdmBpaY2zbruVGfuT58hul9PmhCcfa7jyVc4VqWD5THCQpMCA/viewform?embedded=true}
+                src="https://docs.google.com/forms/d/e/1FAIpQLSdmBpaY2zbruVGfuT58hul9PmhCcfa7jyVc4VqWD5THCQpMCA/viewform?embedded=true"
                 title="더블첨삭 시스템 상담 신청 폼"
                 className="block w-full h-[1350px] md:h-[1200px]"
                 frameBorder="0"
@@ -66,7 +66,7 @@ const CTASection = () => {
                 화면에서 양식이 보이지 않거나 제출이 원활하지 않은 경우 아래 링크를 이용해 주십시오.
               </p>
               <a
-                href={https://docs.google.com/forms/d/e/1FAIpQLSdmBpaY2zbruVGfuT58hul9PmhCcfa7jyVc4VqWD5THCQpMCA/viewform}
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdmBpaY2zbruVGfuT58hul9PmhCcfa7jyVc4VqWD5THCQpMCA/viewform"
                 target="_blank"
                 rel="noreferrer"
                 className="mt-3 inline-flex items-center rounded-lg bg-point-gold px-4 py-2 text-sm font-semibold text-point-gold-foreground transition-all duration-200 hover:brightness-110 active:scale-95"
